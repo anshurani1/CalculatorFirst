@@ -1,5 +1,5 @@
-a = 200
-b = 20
+a = 20
+b = 2
 print("The value of",a,"+",b,"is:",a+b)
 print("The value of",a,"-",b,"is:",a-b)
 print("The value of",a,"*",b,"is:",a*b)
